@@ -1,7 +1,7 @@
 import turtle
 
-turtle.Screen().setup(1500, 700)
-turtle.Screen().setworldcoordinates(0, 0, 1500, 700)
+turtle.Screen().setup(1500, 900)
+turtle.Screen().setworldcoordinates(0, 0, 1500, 900)
 
 x = str(turtle.pos())
 turtle.goto(350, 350)
